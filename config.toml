@@ -1,0 +1,4 @@
+baseURL = 'https://jlbellido.github.io/'
+languageCode = 'en-us'
+title = "jlbellido"
+theme = 'ananke'
