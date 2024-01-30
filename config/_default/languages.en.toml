@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "jlbellido"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Jose Luis Bellido"
+  image = "img/profile-picture.jpg"
+  headline = "PHP/Drupal backend developer"
+  bio = "PHP developer with 10+ years of experience building corporate sites based on Drupal."
+  links = [
+    { drupal = "https://drupal.org/u/jlbellido" },
+    { github = "https://github.com/jlbellido" },
+    { linkedin = "https://linkedin.com/in/jlbellido" },
+    { x-twitter = "https://twitter.com/jose_lakatos" },
+  ]
