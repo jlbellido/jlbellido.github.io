@@ -51,7 +51,6 @@ Hugo is a consolidated tool; it has tons of available [themes](https://themes.go
 ### Cheap
 
 Thanks to this new approach, I don't have the need to have my server or database; therefore, I no longer need to have hosting to locate my blog. Nowadays, there are plenty of options to host your static site for free like: [Netlify](https://www.netlify.com/) or [Github Pages](https://pages.github.com/). Hugo can be hosted easily on any of them. You can know more about Hosting and deployment Hugo at https://gohugo.io/hosting-and-deployment/
-{{< github repo="jlbellido/jlbellido.github.io" >}}
 
 ### Using modern strategies for deployment.
 
